@@ -1,0 +1,8 @@
+<view class="index-top" style="background: url(../../images/bgtop.png) no-repeat;background-size:100% 100%">
+    <view class="qun_avatar">
+      <view class="border-fff">
+         <image class="qun_avatar_image" src="https://fonehui.com/static/uploads/logo/2017/03/27/14905789413868.jpg" background-size="cover"></image>
+      </view>
+      <view class="fonehui_group_name str">宜春学院深圳校友会</view>
+    </view>
+</view>

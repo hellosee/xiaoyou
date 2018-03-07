@@ -1,0 +1,41 @@
+/**index.wxss**/
+.index-top {
+  width:100%;
+  height:198px;
+  min-height: 198px;
+  overflow: hidden;
+  float: left;
+}
+.qun_avatar{
+  margin-top:35px;
+  width:100%;
+}
+.border-fff{
+  border:1px solid rgba(255, 255, 255, 0.6);
+  height:86px;
+  width:86px;
+  border-radius: 50px;
+  margin:10px auto;
+}
+.qun_avatar_image{
+    border: 3px solid rgba(200,200,200,0.25);
+    border-radius: 50px;
+    float: left;
+    width: 80px;
+    height: 80px;
+}
+.fonehui_group_name{
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+    float: left;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.str{
+    white-space: nowrap;
+    word-break: keep-all;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
