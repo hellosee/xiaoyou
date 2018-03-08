@@ -1,0 +1,94 @@
+<view class="bg-main-init">
+    <view class="top-section">
+        <view class="top-figure">
+            <image class="top-figure-pic" src="https://fonehui.com/static/uploads/avatar/2017/03/27/14905829199581.jpg" alt=""></image>
+            <view class="personal-info-wrapper">
+                <view class="portrait-wrapper">
+                    <image class="portrait" src="https://fonehui.com/static/uploads/avatar/2017/03/27/14905829199581.jpg" alt=""></image>
+                </view>
+                <view class="personal-info">
+                    <view class="personal-name female" id="name">李守杰</view>
+                    <view class="personal-job-info"> </view>
+                    <view class="personal-address">广东省 深圳市</view>
+                </view>
+            </view>
+        </view>
+    </view>
+
+    <view class="case-wrapper">
+        <!--个人简介-->
+        <view class="section-case gerenjianjie">
+            <view class="case-title"><span class="title-border"></span>个人简介</view>
+            <view class="case-content clear-float">
+                <view class="spread_wrapper spread_wrapper_1">
+                    <view class="paragraph-content spread_1">热爱烹饪，交友。喜欢周末放松心情。从事金融行业，力所能及的为朋友解决问题。</view>
+                </view>
+                <view class="content-more" spread="spread_1"></view>
+            </view>
+        </view>
+        <!--主营业务-->
+
+        <!--社群关系-->
+        <view class="section-case">
+            <view class="case-title"><view class="title-border"></view>社群关系</view>
+            <view class="case-content clear-float">
+                <scroll-view class="association-wrapper spread_2">
+                    <view class="association-list border-all">
+                        <view class="association-logo">
+                            <image src="https://fonehui.com/static/uploads/logo/2017/03/27/14905789413868.jpg" alt=""></image>
+                        </view>
+                        <view class="association-detail"></view>
+                        <view class="association-name">宜春学院深圳校友会</view>
+                    </view>
+                    <view class="association-list border-all">
+                        <view class="association-logo">
+                            <image src="https://fonehui.com/static/uploads/logo/2017/03/27/14905789413868.jpg" alt=""></image>
+                        </view>
+                        <view class="association-detail"></view>
+                        <view class="association-name">宜春学院深圳校友会</view>
+                    </view>
+                    <view class="association-list border-all">
+                        <view class="association-logo">
+                            <image src="https://fonehui.com/static/uploads/logo/2017/03/27/14905789413868.jpg" alt=""></image>
+                        </view>
+                        <view class="association-detail"></view>
+                        <view class="association-name">宜春学院深圳校友会</view>
+                    </view>
+                </scroll-view>
+                <div class="content-more" spread="spread_2"></div>
+            </view>
+        </view>
+        <!-- 微信 -->
+        <view class="section-case">
+            <view class="case-title"><span class="title-border"></span>我的微信</view>
+            <view class="case-content mywxqr">
+                <image src="https://fonehui.com/static/uploads/logo/2017/03/27/14905789413868.jpg" alt=""></image>
+            </view>
+        </view>
+
+        <!--相册-->
+
+        <!--职业信息-->
+
+        <!--供需-->
+
+
+
+
+        <!--兴趣-->
+
+        <!--教育信息-->
+    </view>
+    <viwe class="footer border-top">
+        <view class="footer-nav">
+            <view class="nav-wrapper">
+                <view class="nav-list" id="leave_message">
+                    <view class="nav-content nav-message"><view class="nav-text">留言</view></view>
+                </view>
+                <view class="nav-list" id="add_to_friend">
+                    <view class="nav-content nav-contacts"><view class="nav-text">好友</view></view>
+                </view>
+            </view>
+        </view>
+    </viwe>
+</view>
