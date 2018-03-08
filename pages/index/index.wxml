@@ -3,6 +3,35 @@
       <view class="border-fff">
          <image class="qun_avatar_image" src="https://fonehui.com/static/uploads/logo/2017/03/27/14905789413868.jpg" background-size="cover"></image>
       </view>
-      <view class="fonehui_group_name str">宜春学院深圳校友会</view>
+      <view class="fonehui_group_name str">测试</view>
     </view>
+</view>
+<view class="navbar">
+    <view class="navbarh">
+        <view class="divheight">
+            <view class="qdiv_font">
+                <image src="https://fonehui.com/static/img/icon/ic_member_1.png" class="qlist_img"></image>
+                <view>成员</view>
+            </view>
+        </view>
+        <view class="divheight">
+            <view class="qdiv_font">
+                <image src="https://fonehui.com/static/img/icon/ic_member_1.png" class="qlist_img"></image>
+                <view>动态</view>
+            </view>
+        </view>
+        <view class="divheight">
+            <view class="qdiv_font">
+                <image src="https://fonehui.com/static/img/icon/ic_member_1.png" class="qlist_img"></image>
+                <view>活动</view>
+            </view>
+        </view>
+         <view class="divheight">
+            <view class="qdiv_font">
+                <image src="https://fonehui.com/static/img/icon/ic_member_1.png" class="qlist_img"></image>
+                <view>邀请</view>
+            </view>
+        </view>
+    </view>
+
 </view>

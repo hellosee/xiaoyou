@@ -8,5 +8,23 @@
     "navigationBarBackgroundColor": "#FF6347",
     "navigationBarTitleText": "小程序",
     "navigationBarTextStyle":"#fff"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#dcbb77",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "社群",
+      "iconPath": "images/bot_group_no.png",
+      "selectedIconPath": "images/bot_group_yes.png"
+    },{
+      "pagePath": "pages/logs/logs",
+      "text": "我",
+      "iconPath": "images/bot_user_no.png",
+      "selectedIconPath": "images/bot_user_yes.png"
+    }
+    ]
   }
 }
