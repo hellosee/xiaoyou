@@ -1,5 +1,7 @@
 {
   "pages":[
+    "pages/member/member",
+    "pages/qunmembers/qunmembers",
     "pages/index/index",
     "pages/logs/logs"
   ],
@@ -15,12 +17,17 @@
     "borderStyle": "white",
     "backgroundColor": "#ffffff",
     "list": [{
-      "pagePath": "pages/index/index",
+      "pagePath": "pages/member/member",
       "text": "社群",
       "iconPath": "images/bot_group_no.png",
       "selectedIconPath": "images/bot_group_yes.png"
     },{
       "pagePath": "pages/logs/logs",
+      "text": "我",
+      "iconPath": "images/bot_user_no.png",
+      "selectedIconPath": "images/bot_user_yes.png"
+    },{
+      "pagePath": "pages/qunmembers/qunmembers",
       "text": "我",
       "iconPath": "images/bot_user_no.png",
       "selectedIconPath": "images/bot_user_yes.png"

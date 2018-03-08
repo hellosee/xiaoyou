@@ -1,0 +1,36 @@
+<view class="bg-main-init">
+    <view class="wrap_all">
+        <view class="main_left">
+            <image src="https://fonehui.com/static/uploads/avatar/2017/03/27/14905829199581.jpg"></image>
+        </view>
+        <image src="https://fonehui.com/static/img/wximg/right.png" class="main_img_right"></image>
+        <view class="main_right">
+            <view class="font_name str">李守杰</view>
+            <view class="font_oth">汇富集团MPIT事业部</view>
+            <view class="font_oth">PHP工程师</view>
+        </view>
+    </view>
+
+
+    <view class="wrap_two_all">
+        <view class="wrap_wrap_all">
+            <view class="wrap_wrap_all_div">
+                <image src="https://fonehui.com/static/img/wximg/webapp2.0/wdsq.png" class="main_img_left"></image>
+                <view class="font_text">我的色群</view>
+                <image src="https://fonehui.com/static/img/wximg/right.png" class="main_img_right"></image>
+            </view>
+            <view class="lines"></view>
+            <view class="wrap_wrap_all_div">
+                <image src="https://fonehui.com/static/img/wximg/webapp2.0/img_update/my_order.png"  class="main_img_left"></image>
+                <view class="font_text">我的订单</view>
+                <image src="https://fonehui.com/static/img/wximg/right.png" class="main_img_right"></image>
+            </view>
+            <view class="lines"></view>
+            <view class="wrap_wrap_all_div">
+                <image src="https://fonehui.com/static/img/wximg/webapp2.0/my_-collect.png" class="main_img_left"></image>
+                <view class="font_text">我的收藏</view>
+                <image src="https://fonehui.com/static/img/wximg/right.png" class="main_img_right"></image>
+            </view>
+        </view>
+    </view>
+</view>

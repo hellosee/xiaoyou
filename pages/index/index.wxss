@@ -1,37 +1,41 @@
 /**index.wxss**/
+.bg-main-init{
+    font-size: 13px;
+    background-color: #f1f2f4;
+}
 .index-top {
   width:100%;
-  height:198px;
-  min-height: 198px;
+  height:396rpx;
+  min-height: 396rpx;
   overflow: hidden;
   float: left;
 }
 .qun_avatar{
-  margin-top:35px;
+  margin-top:70rpx;
   width:100%;
 }
 .border-fff{
-  border:1px solid rgba(255, 255, 255, 0.6);
-  height:86px;
-  width:86px;
-  border-radius: 50px;
-  margin:10px auto;
+  border:2rpx solid rgba(255, 255, 255, 0.6);
+  height:192rpx;
+  width:192rpx;
+  border-radius: 100rpx;
+  margin:20rpx auto;
 }
 .qun_avatar_image{
-    border: 3px solid rgba(200,200,200,0.25);
-    border-radius: 50px;
+    border: 6rpx solid rgba(200,200,200,0.25);
+    border-radius: 100rpx;
     float: left;
-    width: 80px;
-    height: 80px;
+    width: 180rpx;
+    height: 180rpx;
 }
 .fonehui_group_name{
     color: #fff;
-    font-size: 18px;
+    font-size: 36rpx;
     text-align: center;
     float: left;
     width: 100%;
-    margin-top: 5px;
-    margin-bottom: 20px;
+    margin-top: 10rpx;
+    margin-bottom: 40rpx;
 }
 .str{
     white-space: nowrap;
@@ -50,22 +54,121 @@
     overflow: hidden;
     z-index: 1;
     width: 100%;
-    padding: 20px 0;
+    padding: 40rpx 0;
 }
 
 .divheight {
     width: 25%;
     float: left;
-    font-size: 13px;
-    margin-bottom: 10px;
+    font-size: 26rpx;
+    margin-bottom: 20rpx;
 }
 .qdiv_font {
-    width: 70px;
+    width: 140rpx;
     margin: 0 auto;
     text-align: center;
 }
 .qlist_img {
-    margin: 5px auto;
-    width: 26px;
-    height: 26px;
+    margin: 10rpx auto;
+    width: 52rpx;
+    height: 52rpx;
+}
+.maring-top10 {
+    margin-top: 20rpx;
+}
+.width100 {
+    float: left;
+    width: 100%;
+}
+.width94 {
+    float: left;
+    width: 94%;
+    margin: 0 3%;
+    overflow: hidden;
+}
+.qtitle_a {
+    color: #87a8dc;
+    float: left;
+    font-size: 30rpx;
+    height: 70rpx;
+    line-height: 72rpx;
+    background: url(https://fonehui.com/static/img/wximg/webapp2.0/icon_arrows.png) right center no-repeat;
+    background-size: 12rpx;
+    padding-right: 26rpx;
+}
+.blank_line {
+    clear: both;
+    height: 2rpx;
+    overflow: hidden;
+    font-size: 0;
+    background: url(https://fonehui.com/static/img/xian_bottom.png) no-repeat scroll bottom / 100% 2rpx,#fff;
+}
+.width94 {
+    float: left;
+    width: 94%;
+    margin: 0 3%;
+    overflow: hidden;
+}
+.margin10 {
+    margin: 20rpx 0;
+}
+.border_divs {
+    border-radius: 4rpx;
+    border: 2rpx solid #e8e8e8;
+    height: 140rpx;
+    margin-left: 5%;
+    float: right;
+    width: 190rpx;
+}
+.qdiv_img {
+    border-radius: 4rpx;
+    float: right;
+    height: 140rpx;
+    width: 190rpx;
+}
+.qdivtext_left {
+    font-size: 38rpx;
+    height: 140rpx;
+    line-height: 48rpx;
+    color: #000;
+}
+.strs {
+    display: -webkit-box!important;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-all;
+    -ms-box-orient: vertical;
+    -ms-line-clamp: 3;
+    -moz-box-orient: vertical;
+    -moz-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+.qtext {
+    float: left;
+    margin-right: 20rpx;
+    color: #ccc;
+    font-size: 26rpx;
+}
+.qdate {
+    float: right;
+    color: #ccc;
+    font-size: 26rpx;
+}
+.qtexttt {
+    float: left;
+    margin-right: 20rpx;
+    color: #9ea1a4;
+    font-size: 30rpx;
+}
+.qmoney {
+    float: left;
+    font-size: 30rpx;
+    color: #9ea1a4;
+    margin-left: 10rpx;
+}
+.qdivtext_left2 {
+    font-size: 38rpx;
+    height: 60rpx;
+    color: #000;
 }

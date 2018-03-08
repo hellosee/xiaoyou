@@ -1,0 +1,48 @@
+<view class="bg-main-init">
+    <view class="members-wrapper">
+        <view class="members-inner">
+            <view class="members-icon"></view>
+            <view class="members-input-wrapper">
+                <input type="text" class="members-input" id="all_members_input" placeholder="输入成员姓名、行业、主营业务等搜索" readonly="readonly"></input>
+            </view>
+        </view>
+    </view>
+
+    <view class="all-members-wrapper">
+        <view class="all-members-header">
+            <view class="h2">全部成员 <view id="members_num" style="display:inline">3</view>人</view>
+        </view>
+        <scroll-view  id="all_members_wrapper">
+            <view class="all-member-list border-top">
+                <view class="all-member-portrait">
+                    <image class="member-avatar" src="https://fonehui.com/static/uploads/avatar/2017/04/13/14920516049121.jpg" alt=""></image>
+                </view>
+                <view class="all-member-info">
+                    <view class="all-member-name">金国军</view>
+                    <view class="all-member-position">中国工业报江西记者站</view>
+                    <view class="all-member-position">站长</view>
+                </view>
+            </view>
+            <view class="all-member-list border-top">
+                <view class="all-member-portrait">
+                    <image class="member-avatar" src="https://fonehui.com/static/uploads/avatar/2016/09/23/14746002862764.jpg" alt=""></image>
+                </view>
+                <view class="all-member-info">
+                    <view class="all-member-name">陈诗浪</view>
+                    <view class="all-member-position"></view>
+                    <view class="all-member-position"></view>
+                </view>
+            </view>
+            <view class="all-member-list border-top">
+                <view class="all-member-portrait">
+                    <image class="member-avatar" src="https://fonehui.com/static/uploads/avatar/2017/03/27/14905829199581.jpg" alt=""></image>
+                </view>
+                <view class="all-member-info">
+                    <view class="all-member-name">李守杰</view>
+                    <view class="all-member-position"></view>
+                    <view class="all-member-position"></view>
+                </view>
+            </view>
+        </scroll-view>
+    </view>
+</view>
