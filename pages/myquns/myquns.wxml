@@ -1,0 +1,29 @@
+<view class="bg-main-init">
+    <view class="groups_wrap_all" id="group_y_content" style="display: block;">
+        <view class="wrap_wrap_all">
+            <view class="wrap_wrap_all_part2">
+                <image src="https://fonehui.com/static/uploads/logo/2017/03/27/14905789413868.jpg" class="cmty_img"></image>
+                <view class="cmty_main_right">
+                    <view class="font_name">宜春学院深圳校友会</view>
+                    <view class="cmty_font_name">宜春学院深圳校友会是由深圳市校友自愿联合的、非营利性社会团体组织，隶属于宜春学院校友总会。本会的宗旨是加强校友之间及校友与母校之间的联系</view>
+                </view>
+            </view>
+
+            <view class="wrap_wrap_all_part2">
+                <image src="https://fonehui.com/static/uploads/logo/2017/03/27/14905789413868.jpg" class="cmty_img"></image>
+                <view class="cmty_main_right">
+                    <view class="font_name">宜春学院深圳校友会</view>
+                    <view class="cmty_font_name">宜春学院深圳校友会是由深圳市校友自愿联合的、非营利性社会团体组织，隶属于宜春学院校友总会。本会的宗旨是加强校友之间及校友与母校之间的联系，增进友谊与合作，发扬母校“厚德、尚能、博学、笃行”校训精神，为促进校友进步、社会和谐和母校发展及深圳社会经济发展作出贡献。遵守宪法、法律、法规和国家政策，遵守社会道德风尚。本会的主要任务是为校友服务、为母校服务、为深圳经济社会发展服务、为和谐社会服务。</view>
+                </view>
+            </view>
+
+            <view class="wrap_wrap_all_part2">
+                <image src="https://fonehui.com/static/uploads/logo/2017/03/27/14905789413868.jpg" class="cmty_img"></image>
+                <view class="cmty_main_right">
+                    <view class="font_name">宜春学院深圳校友会</view>
+                    <view class="cmty_font_name">宜春学院深圳校友会是由深圳市校友自愿联合的、非营利性社会团体组织，隶属于宜春学院校友总会。本会的宗旨是加强校友之间及校友与母校之间的联系，增进友谊与合作，发扬母校“厚德、尚能、博学、笃行”校训精神，为促进校友进步、社会和谐和母校发展及深圳社会经济发展作出贡献。遵守宪法、法律、法规和国家政策，遵守社会道德风尚。本会的主要任务是为校友服务、为母校服务、为深圳经济社会发展服务、为和谐社会服务。</view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

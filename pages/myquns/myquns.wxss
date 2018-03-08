@@ -1,0 +1,43 @@
+.groups_wrap_all {
+    float: left;
+    clear: both;
+    width: 100%;
+    background: url(https://fonehui.com/static/img/xian_top.png) no-repeat top/100% 1px,url(https://fonehui.com/static/img/xian_bottom.png) no-repeat bottom/100% 1px #fff;
+}
+.wrap_wrap_all {
+    margin: 0 14px;
+    margin-right: 1px;
+}
+.wrap_wrap_all_part2 {
+    padding: 10px 0;
+    width: 100%;
+    float: left;
+    background: url(https://fonehui.com/static/img/xian_bottom.png) no-repeat scroll bottom / 100% 1px,#fff;
+}
+.cmty_img {
+    border-radius: 5px;
+    width:68px;
+    height:68px;
+    float: left;
+}
+.cmty_main_right {
+    margin-left: 82px;
+    margin-right: 14px;
+    color: #555758;
+}
+.font_name {
+    font-size: 16px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.cmty_font_name {
+    font-size: 14px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 40px;
+    line-height: 16px;
+    color: #aeafb0;
+    line-height: 20px;
+    margin-top: 5px;
+}

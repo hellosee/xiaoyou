@@ -1,5 +1,6 @@
 {
   "pages":[
+    "pages/myquns/myquns",
     "pages/mycard/mycard",
     "pages/member/member",
     "pages/qunmembers/qunmembers",
