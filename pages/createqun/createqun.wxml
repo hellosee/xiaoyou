@@ -1,0 +1,26 @@
+<view class="bg-main-init">
+    <view class="section-header">
+        <view class="section-portrait-wrapper">
+            <image src="https://fonehui.com/static/uploads/avatar/2017/03/27/14905829199581.jpg" alt="" class="section-header-portrait set-image" id="portrait"></image>
+            <input type="file" class="hidden-class" id="portrait_file" name=""></input>
+        </view>
+        <view class="section-header-text">请上传群LOGO</view>
+    </view>
+    <view class="ul">
+        <view class="li">
+            <view class="name"><view class="red" style="display: inline">*</view>社群名称</view>
+            <input type="text" id="name" value="" placeholder="请设置开通社群名称" placeholder-style=""></input>
+        </view>
+        <view class="li">
+            <view class="name"><view class="red" style="display: inline">*</view>地区<view class="small" style="display: inline">所在地</view></view>
+            <input type="text" class="area" id="area" value="" placeholder="请选择所在地区"></input>
+        </view>
+        <view class="li">
+            <view class="name"><view class="red" style="display: inline">*</view>社群类型</view>
+            <input type="text" class="genre" id="genre" value="" placeholder="请选择您的社群类型"></input>
+        </view>
+    </view>
+    <view class="footer">
+        <view class="submit_btn">提交</view>
+    </view>
+</view>

@@ -1,0 +1,36 @@
+<view class="bg-main-init">
+    <view class="section-header">
+        <view class="section-portrait-wrapper">
+            <image src="http://wimg.huodongxing.com/logo/201501/4264193298800/331835048669465_v2.jpg" alt="" class="section-header-portrait set-image" id="portrait"></image>
+            <input type="file" class="hidden-class" id="portrait_file" name=""></input>
+        </view>
+        <view class="section-header-text">请上传活动海报</view>
+    </view>
+    <view class="form-group">
+        <view class="icon-tag"></view>
+        <input type="text" class="form-control" placeholder="活动主题" required="" data-validation-message="请输入活动标题" data-validation-type="warning" name="Title" value="" maxlength="100"></input>
+    </view>
+    <view class="form-group datetime">
+        <view class="icon-time-md"></view>
+        <input type="text" class="form-control" placeholder="活动开始时间"></input>
+    </view>
+    <view class="form-group datetime">
+        <view class="icon-time-md"></view>
+        <input type="text" class="form-control" placeholder="活动结束时间"></input>
+    </view>
+    <view class="form-group">
+        <view class="icon-city-md"></view>
+        <input type="text" class="form-control" placeholder="选择活动地区"></input>
+    </view>
+    <view class="form-group">
+        <view class="icon-place-md"></view>
+        <input type="text" class="form-control" placeholder="请输入活动详细地址"></input>
+    </view>
+
+    <view class="event-edit">
+        <textarea  class="textarea" maxlength='123456789'  placeholder="添加活动介绍，让小伙伴更好的了解活动～" name="Description">
+        </textarea >
+
+    </view>
+
+</view>

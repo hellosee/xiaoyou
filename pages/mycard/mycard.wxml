@@ -18,7 +18,7 @@
     <view class="case-wrapper">
         <!--个人简介-->
         <view class="section-case gerenjianjie">
-            <view class="case-title"><span class="title-border"></span>个人简介</view>
+            <view class="case-title"><view class="title-border"></view>个人简介</view>
             <view class="case-content clear-float">
                 <view class="spread_wrapper spread_wrapper_1">
                     <view class="paragraph-content spread_1">热爱烹饪，交友。喜欢周末放松心情。从事金融行业，力所能及的为朋友解决问题。</view>
@@ -60,7 +60,7 @@
         </view>
         <!-- 微信 -->
         <view class="section-case">
-            <view class="case-title"><span class="title-border"></span>我的微信</view>
+            <view class="case-title"><view class="title-border"></view>我的微信</view>
             <view class="case-content mywxqr">
                 <image src="https://fonehui.com/static/uploads/logo/2017/03/27/14905789413868.jpg" alt=""></image>
             </view>

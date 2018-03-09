@@ -1,5 +1,9 @@
 {
   "pages":[
+    "pages/createactivity/createactivity",
+    "pages/createqun/createqun",
+
+
     "pages/myquns/myquns",
     "pages/mycard/mycard",
     "pages/member/member",

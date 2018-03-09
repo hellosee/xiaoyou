@@ -1,0 +1,115 @@
+.section-header {
+    width: 100%;
+    height: 140px;
+    padding: 10px 0 30px 0;
+    text-align: center;
+}
+.section-portrait-wrapper {
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.section-header-portrait {
+    width: 100%;
+    height: 100%;
+}
+.hidden-class {
+    display: none;
+}
+.section-header-text {
+    margin-top: 5px;
+    font-size: 12px;
+    color: #9ea1a4;
+}
+.form-group {
+    margin: 0;
+    position: relative;
+    background-color: #fff;
+}
+.icon-tag {
+    position: absolute;
+    left: 10px;
+    top: 15px;
+    width: 18px;
+    height: 18px;
+    background-position: -150px -46px;
+    display: inline-block;
+    background-image: url(http://hellosee.oss-cn-shenzhen.aliyuncs.com/images/icon.png);
+    -webkit-background-size: 366px 71px;
+    background-size: 366px 71px;
+}
+.form-group .form-control {
+    padding-left: 38px;
+    border: none;
+    height: 50px;
+    box-shadow: none;
+    border-bottom: 1px solid #d8d8d8;
+    font-size: 14px;
+    line-height: 1.42857143;
+}
+.icon-time-md {
+    background-size: cover;
+    width: 19px;
+    height: 19px;
+    background-image: url(http://hellosee.oss-cn-shenzhen.aliyuncs.com/images/timeicon.png);
+    position: absolute;
+    left: 10px;
+    top: 15px;
+}
+.icon-city-md {
+    position: absolute;
+    left: 10px;
+    top: 15px;
+    width: 19px;
+    height: 19px;
+    background-size: cover;
+    background-image: url(http://hellosee.oss-cn-shenzhen.aliyuncs.com/images/cityicon.png);
+}
+.icon-place-md {
+    position: absolute;
+    left: 10px;
+    top: 15px;
+    width: 18px;
+    height: 21px;
+    background-size: cover;
+    background-image: url(http://hellosee.oss-cn-shenzhen.aliyuncs.com/images/address.png);
+}
+
+.event-edit {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #d8d8d8;
+    position: relative;
+    background: #fff;
+    width:100%;
+    height:100px;
+    padding:0 10px;
+}
+.event-edit .placeholder {
+    color: #7d7d7d;
+    position: absolute;
+    height: 50px;
+    padding-left: 38px;
+    width: 100%;
+    line-height: 50px;
+    transform-origin: 0px 0px 0px;
+    opacity: 1;
+    transform: scale(1, 1);
+    display: none;
+}
+.event-edit-span {
+    position: absolute;
+    left: 10px;
+    top: 15px;
+}
+.event-edit-span, .icon-txt-md {
+    width: 18px;
+    height: 20px;
+    background-size: cover;
+    background-image: url(http://hellosee.oss-cn-shenzhen.aliyuncs.com/images/text-edit.png);
+}
+.textarea{
+    width:95%;
+    height:100%;
+    padding:10px 0;
+}
